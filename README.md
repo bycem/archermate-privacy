@@ -26,7 +26,7 @@ Değişiklikler
 Bu politika güncellendiğinde bu sayfada yayınlanır.
 
 İletişim
-Sorularınız için: bycem1@gmail.com
+Sorularınız için: support.archermate@gmail.com
 
 ArcherMate — Privacy Policy
 Last updated: August 12, 2026
@@ -56,4 +56,4 @@ Changes
 Updates to this policy will be published on this page.
 
 Contact
-Questions: bycem1@gmail.com
+Questions: support.archermate@gmail.com
